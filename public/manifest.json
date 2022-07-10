@@ -1,11 +1,13 @@
 {
     "name": "Budget Tracker",
     "short_name": "Budget",
+    "orientation": "portrait",
+    "display": "standalone",
     "description": "An app that tracks budget.",
     "background_color": "#01579b",
     "theme_color": "#ffffff",
-    "start_url": "../index.html",
-
+    "start_url": "./index.html",
+  
     "icons": [{
         "src": "./icons/icon-72x72.png",
         "type": "image/png",
@@ -44,7 +46,7 @@
       {
         "src": "./icons/icon-512x512.png",
         "type": "image/png",
-        "sizes": "521x512"
+        "sizes": "512x512"
       }
     ]
 

@@ -1,6 +1,6 @@
 # Budget Tracker Starter Code
 ## Purpose
-This is refactor project for an existing budget tracker app.
+This is a refactor project for an existing budget tracker app.
 
 The refactor work was done to add PWA capablities to the app and included the following:
 * Users will now be able to add expenses and deposits without a network connection.
@@ -12,6 +12,10 @@ The refactor work was done to add PWA capablities to the app and included the fo
 * IndexedDB
 * MangoDB
 * Service Worker
+
+## Usage
+* Clone the application
+
 
 ## Website
 https://meghark.github.io/portfolio-react-tailwind-singlepage/
